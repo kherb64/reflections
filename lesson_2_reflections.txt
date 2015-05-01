@@ -21,3 +21,7 @@ I see the parent of each commit.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 One branch. To see the evolution.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Easily merges two people's work on different scopes. Cannot add errors by the merging process itself. Warns on conflicts.
