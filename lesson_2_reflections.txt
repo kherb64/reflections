@@ -9,3 +9,7 @@ It shows the new/modified files that are being tracked and are abut to be commit
 How can you use the staging area to make sure you have one commit per logical change?
 
 Just add the files that belong to this one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Experimental features, long term testing stages. Switch between versions easier w/o remebering commit ids.
