@@ -14,3 +14,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Can work offline. Have the latests commits with me.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+By sending emails. Replacing files directly would be easier, but also more dangerous. It would be harder to maintain an overview of all changes.
