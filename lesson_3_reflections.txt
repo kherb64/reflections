@@ -4,4 +4,9 @@ Working from multpile computers, share project with other people, backup matters
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-I can decide on the time by myself.
+I can decide on the time by myself
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forksare from one GitHub repo to another. Clones are from a remote or a local repo to a local one. Bracnhes are all within a local repo.
+
