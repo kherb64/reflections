@@ -10,3 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Forksare from one GitHub repo to another. Clones are from a remote or a local repo to a local one. Bracnhes are all within a local repo.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Can work offline. Have the latests commits with me.
+
